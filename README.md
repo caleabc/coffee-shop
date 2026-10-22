@@ -32,3 +32,4 @@ Orders and menu changes are stored in browser `localStorage`. Other open tabs un
 
 Browser localStorage cannot synchronise separate devices or browser profiles by itself. If multiple physical kiosks need to share a live queue, replace the storage layer in `frontend/src/useCoffeeShop.js` with a shared API or realtime database.
 # coffee-shop
+# coffee-shop
